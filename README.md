@@ -1,0 +1,2 @@
+# ContentProductionTeamB
+コロコロダンゴムシチームB用のリポジトリ
